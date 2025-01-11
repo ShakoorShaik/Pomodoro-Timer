@@ -16,9 +16,6 @@ A simple pomodoro timer that can be used to track your work hours. It was create
 - Tracks work hours
 - Start, stop, and reset the timer
 
-Pomodoro Timer
-Version: 1.0
-
 ```
 Options:
 1. Start
@@ -38,3 +35,5 @@ Options:
 - Add a task manager
 - Make the code more efficient and cleaner
 
+Pomodoro Timer
+Version: 1.0
