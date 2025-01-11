@@ -1,4 +1,4 @@
-#Pomodoro Timer
+# Pomodoro Timer
 ### A Simple and Intuitive Productivity Tool  
 
 ---
@@ -7,11 +7,11 @@
 
 ---
 
-###Description
+## Description
 
 A simple pomodoro timer that can be used to track your work hours. It was created using HTML, CSS, and JavaScript. 
 
-###Features
+## Features
 
 - Tracks work hours
 - Start, stop, and reset the timer
@@ -26,12 +26,12 @@ Options:
 3. Reset
 ```
 
-###Technologies Used
+## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 
-###Future Plans
+## Future Plans
 - Add a break feature
 - Add a settings page
 - Add a dark mode
